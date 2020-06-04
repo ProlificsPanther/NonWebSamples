@@ -4,7 +4,7 @@ Samples of non web code for general client server based features or issues. It h
 # What this repository contains
 This repository contains branches for client server based examples which are open source under MIT license.
 
-![](Branch.PNG)
+![]()
 
 
 
