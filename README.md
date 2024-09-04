@@ -1,6 +1,6 @@
 # NonWebSamples
 
-Samples of non web code for general client server based features or issues. It help users to resolve or add new requirement using these non web samples of code.
+Samples of non web code for general client server based features or issues. It helps users to resolve or add new requirement using these non web samples of code.
 
 # Contents
 Branch for client server based examples which are open source and licensed under MIT.
